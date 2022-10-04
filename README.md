@@ -11,6 +11,9 @@ HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIB
 |:--|:--|:--|:--|
 | 1. | [Documentation-Khazana](https://github.com/Ayush7614/Documentation-Khazana) | [Added Documentation](https://github.com/Ayush7614/Documentation-Khazana) | Documentation`  |
 | 2. | [Bug Busters Community Website](https://github.com/BugBustersCommunity/website) | [Code in Frontend + Backend](https://github.com/BugBustersCommunity/website) | Website`  |
+| 3. | [Lekhak - Anonymous Articles](https://github.com/RamGoel/Lekhak) | [Code in Frontend + Backend](https://github.com/RamGoel/Lekhak/issues) | Website`  |
+| 4. | [cdnExtension - Browser Extension](https://github.com/RamGoel/cdnExtension) | [Code in Frontend + Backend](https://github.com/RamGoel/cdnExtension/issues) | Extension`  |
+
 
 
 <p align="center">
