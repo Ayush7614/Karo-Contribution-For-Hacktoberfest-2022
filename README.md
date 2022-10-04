@@ -10,6 +10,8 @@ HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIB
 | Serial No. | Repository| Link to Issue  | Language |
 |:--|:--|:--|:--|
 | 1. | [Documentation-Khazana](https://github.com/Ayush7614/Documentation-Khazana) | [Added Documentation](https://github.com/Ayush7614/Documentation-Khazana) | Documentation`  |
+| 2. | [Bug Busters Community Website](https://github.com/BugBustersCommunity/website) | [Code in Frontend + Backend](https://github.com/BugBustersCommunity/website) | Website`  |
+
 
 <p align="center">
     <a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE">
