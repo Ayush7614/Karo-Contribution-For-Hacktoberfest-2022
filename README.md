@@ -49,7 +49,7 @@ HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIB
 
 
 
-## Projects for Hacktoberfest2021
+## Projects for Hacktoberfest2022
 
 
 
