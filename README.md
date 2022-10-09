@@ -13,11 +13,8 @@ HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIB
 | 2. | [Bug Busters Community Website](https://github.com/BugBustersCommunity/website) | [Code in Frontend + Backend](https://github.com/BugBustersCommunity/website) | Website`  |
 | 3. | [Lekhak - Anonymous Articles](https://github.com/RamGoel/Lekhak) | [Code in Frontend + Backend](https://github.com/RamGoel/Lekhak/issues) | Website`  |
 | 4. | [cdnExtension - Browser Extension](https://github.com/RamGoel/cdnExtension) | [Code in Frontend + Backend](https://github.com/RamGoel/cdnExtension/issues) | Extension`  |
-|
 | 5. | [codesetgo-website](https://github.com/agamjotsingh18/codesetgo-website) | [Code in Frontend](https://github.com/agamjotsingh18/codesetgo-website/issues) | Website`  |
-|
 | 6. | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | [Code in Frontend + Backend](https://github.com/hoppscotch/hoppscotch/issues) | Website`  |
-|
 | 7. | [PlayDash](https://github.com/hoppscotch/hoppscotch](https://github.com/Aryan-Deshpande/PlayDash) | [Code in Frontend + Backend](https://github.com/Aryan-Deshpande/PlayDash) | Website`  |
 
 
